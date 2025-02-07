@@ -5,3 +5,4 @@
 * `source .venv/bin/activate` starts your virtual environment. 
 
 * .gitignore file is used to ignore push's in github for specific files. 
+s
